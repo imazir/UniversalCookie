@@ -1,0 +1,9 @@
+Package: com.johnnie.secretsmanager
+Name: SecretsManager (Secrets管理器)
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Description: 支持多账号换行编辑、SF Symbols风格与GitHub Secrets精准同步管理器
+Maintainer: JohnnieLuo
+Author: JohnnieLuo
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
