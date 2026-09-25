@@ -1,0 +1,9 @@
+Package: com.johnnie.universalcookie
+Name: UniversalCookie (全网通Cookie助手)
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 通用App Cookie嗅探与GitHub多仓库Secrets精准直推工具
+Maintainer: JohnnieLuo
+Author: JohnnieLuo
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
